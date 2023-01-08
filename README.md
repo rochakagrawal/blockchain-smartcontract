@@ -1,4 +1,7 @@
 # blockchain-smartcontract
+
+![image](https://user-images.githubusercontent.com/3668160/211207776-5ee9eff9-1499-4342-a55e-fad559eecfc3.png)
+
 Smart Contracts written to demonstrate the use of storing documents onto Ethereum Blockchain and tracking their history
 
 This has been submitted for Singapore Blockchain Hackathon Competion Jan 2023
