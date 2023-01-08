@@ -1,13 +1,14 @@
 # blockchain-smartcontract
 Smart Contracts written to demonstrate the use of storing documents onto Ethereum Blockchain and tracking their history
 
-This has been submitted for Singapore Blockchain Competion Jan 2023
+This has been submitted for Singapore Blockchain Hackathon Competion Jan 2023
+Team - SmartContracts
 
 See supporting files 
 Video file - YouTube - link https://youtu.be/eQGaZwBuCcg  
 [shows demo running]
 
-Presentation Slides - PDF - https://docs.google.com/presentation/d/1bDbFoJZxv4lqiVpW4Hq7dngd5yn_BPM4Wri0ywABvI4/edit?usp=sharing
+Presentation Slides - PDF - uploaded or Google Docs slide here : https://docs.google.com/presentation/d/1bDbFoJZxv4lqiVpW4Hq7dngd5yn_BPM4Wri0ywABvI4/edit?usp=sharing
 
 Code installation:
 
