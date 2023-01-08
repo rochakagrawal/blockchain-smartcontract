@@ -4,7 +4,8 @@ Smart Contracts written to demonstrate the use of storing documents onto Ethereu
 This has been submitted for Singapore Blockchain Competion Jan 2023
 
 See supporting files 
-Video file - YouTube - link https://youtu.be/eQGaZwBuCcg
+Video file - YouTube - link https://youtu.be/eQGaZwBuCcg  
+[shows demo running]
 
 Presentation Slides - PDF - https://docs.google.com/presentation/d/1bDbFoJZxv4lqiVpW4Hq7dngd5yn_BPM4Wri0ywABvI4/edit?usp=sharing
 
