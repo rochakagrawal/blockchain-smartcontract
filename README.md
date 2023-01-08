@@ -17,7 +17,7 @@ Code installation:
 
 Instructions
 
-1. Download the latest public release zip flie
+1. Download the latest public release zip file from https://github.com/rochakagrawal/blockchain-smartcontract/releases/tag/publish
 2. Extract the zip file
 3. Import the project into Visual Studio Code
 4. Install solidity extension / compiiler
